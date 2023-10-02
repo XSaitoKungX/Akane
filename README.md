@@ -4,7 +4,7 @@
   <br>
   <a href="https://github.com/XSaitoKungX"><img src="/Images/Akane.jpg" height="500" alt="Akane Discord Bot"></a>
   <br>
-  A multifunctional Discord bot, developed with ❤ by <a href="https://github.com/XSaitoKungX">XSaitoKungX</a>
+  A multipurpose Discord bot, developed with ❤ by <a href="https://github.com/XSaitoKungX">XSaitoKungX</a>
   <br>
 </p>
 
@@ -25,18 +25,18 @@ Welcome to the Akane Discord Bot! The Akane Discord Bot is a versatile and custo
 
 The Akane Discord Bot is a powerful and user-friendly bot developed to add functionality to your server and improve your community's Discord experience. With a wide range of features, including slash commands and simple music commands, Akane is the perfect addition to any Discord server.
 
-Of course, I can expand and customize this for you:
-
 ## **Features**
 - 🤖 **Versatility:** The bot offers a wide range of features, from entertainment to moderation, to provide diverse capabilities to your server.
 
-- 📊 **Polls:** With the poll feature, you can create custom polls and gather opinions from your server members. Perfect for making decisions together.
+- 📈 **Dashboard:** Conveniently manage the bot through a user-friendly dashboard. Customize settings, monitor activities, and maintain control.
+
+- 📊 **Polls:** Utilize the poll feature to create custom polls and gather opinions from your server members. Ideal for collaborative decision-making.
 
 - 🖼️ **Image Captioning:** Personalize your images by adding text captions. Add a personal touch to your graphics.
 
-- 🎵 **Music Bot:** Enjoy the ability to play music in voice channels and control playback as you wish. Your own DJ on your server.
+- 🎵 **Music Bot:** Enjoy the ability to play music in voice channels and control playback as you wish. Become the DJ on your server.
 
-- 🛡️ **Moderation:** Keep your server in check and maintain a pleasant atmosphere with integrated moderation commands. Protection and order come first.
+- 🛡️ **Moderation:** Maintain control of your server and create a pleasant atmosphere with integrated moderation commands. Protection and order come first.
 
 - 💰 **Economy System:** Give your server an economy with its own currency system. Reward activities and create an interactive community experience.
 
@@ -46,7 +46,7 @@ Of course, I can expand and customize this for you:
 
 - ⚙️ **Customizability:** Customize the bot to your specific needs by adding additional custom commands. Make the bot your own.
 
-- And much more... The possibilities are endless, and you can further expand the bot to make your server unique.
+- And much more... The possibilities are endless, allowing you to further expand the bot and make your server truly unique.
 
 ## Features 🚀
 - [x] Prefix
@@ -65,6 +65,7 @@ Of course, I can expand and customize this for you:
 - [ ] Reaction Roles
 - [ ] Family Features
 - [ ] Contests
+- [ ] Dashboard
 - [ ] Don't want to host the bot yourself?
 
 Before you can use Akane, make sure you meet the following requirements:
