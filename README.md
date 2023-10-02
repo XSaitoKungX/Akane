@@ -99,78 +99,33 @@ Follow these steps to install Akane on your server:
 
 ![Package Private](https://repobeats.axiom.co/api/embed/942b1cc2f77ede96220b334dac8b6535c1196ecf.svg 'Repobeats analytics image')
 
-## Configuration
-```yaml
+## 🤖 Bot Configuration
+```yml
+🔐 config.yml:
+- Fill in the `token` and `guild` fields with your Discord Developer Portal information.
+- Customize general settings such as bot name (`name`), prefix (`prefix`), and currency symbol (`currency_symbol`).
+- Configure database settings if you're using one.
+- Customize addons, server settings, and more according to your requirements.
 
-### General Settings
+📝 commands.yml:
+- In this file, you can configure bot commands, including required roles, descriptions, and aliases. Adjust command configurations to suit your needs.
 
-- token: The Discord Developers' bot token.
-- administrator: The ID of the bot administrator and server owner.
-- customers: The ID of the buyer role.
-- owners: The IDs of owners with access to premium commands.
-- ...
+🌈 embeds.yml:
+- Here, you can set the colors for embeds using color names (e.g., "Red," "Green") or HEX values (e.g., "#f1f1f1," "#dddddd"). Use `\n` to add new lines within embeds when necessary.
 
-### Database
+📜 language.yml:
+- This file allows you to customize bot messages and text. Modify the text to ensure it aligns with your server and requirements.
 
-- mongoose: The link to the Mongoose database.
+🚀 Getting Started
+--------------------------------
+- Once you've configured these files, save them in your bot project directory.
+- Ensure all required dependencies and libraries are installed.
+- Start your bot by running the appropriate launch script.
+- Verify that your bot is set up correctly on your Discord server with the necessary permissions.
 
-### Dashboard
-
-- enabled: Is the dashboard enabled?
-- host: Server IP to which the bot should connect.
-- port: The server port to which the bot should connect.
-- ...
-
-### Discord Settings
-
-- prefix: The prefix for bot commands.
-- color: The color for embeds.
-- discord: The invitation link to the Discord server.
-- ...
-
-### Webhooks
-
-- errors: Webhook link for error logs.
-- commands: Webhook link for used command logs.
-- ...
-
-### Modmail
-
-- enabled: Is modmail enabled?
-- guildId: Server ID on which this feature is active.
-- ...
-
-### Other Configurations
-
-Add any other configuration settings your bot uses here.
-
-## Tickets
-
-- placeholders: Text for the ticket menu.
-- options: Menu options such as services, support, reports, etc.
-- ...
-
-## Setups
-
--
-
- levels: ...
-- rooms: ...
-- ...
-
-## Automoderation
-
-- channel: ...
-- antibot: ...
-- channels: ...
-- ...
-
-## Modals
-
-- global: ...
-- bugs: ...
-- ...
-
+📖 Note
+--------------------------------
+This is a general guide for configuring a Discord bot. The specific steps may vary depending on the bot development platform or framework you're using. Consult the documentation of your specific bot and framework to ensure everything functions correctly.
 ```
 
 ## Contact
