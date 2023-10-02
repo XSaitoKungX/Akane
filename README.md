@@ -98,19 +98,6 @@ Follow these steps to install Akane on your server:
 
 ![Package Private](https://repobeats.axiom.co/api/embed/942b1cc2f77ede96220b334dac8b6535c1196ecf.svg 'Repobeats analytics image')
 
-## Authors
-
-- [XSaitoKungX](https://github.com/XSaitoKungX) - Project founder and lead developer
-
-## Version
-
-Current Version: 1.0.0
-
-## Contact
-
-- Discord: [✘ | 𝐆𝐚𝐦𝐞 & 𝐂𝐡𝐢𝐥𝐥 𝐥𝐨𝐮𝐧𝐠𝐞](https://discord.gg/NDfK6NPZVZ)
-- Website: [Coming Soon...](https://example.com)
-
 ## Configuration
 ```yaml
 
@@ -185,10 +172,14 @@ Add any other configuration settings your bot uses here.
 
 ```
 
+## Contact
+
+- Discord: [✘ | 𝐆𝐚𝐦𝐞 & 𝐂𝐡𝐢𝐥𝐥 𝐥𝐨𝐮𝐧𝐠𝐞](https://discord.gg/NDfK6NPZVZ)
+- Website: [Coming Soon...](https://example.com)
+
 ## Contributors 🤝
 ### **User Profile 🧑‍💼**
-![User Logo](https://avatars.githubusercontent.com/u/64774999?v=4&s=100)
-- **Username:** [XSaitoKungX]
+- **Username:** XSaitoKungX
 - **GitHub:** [XSaitoKungX](https://github.com/XSaitoKungX/)
 
 # 🔥┆Github Stats
