@@ -8,10 +8,12 @@
   <br>
 </p>
 
+<p align="center">
 [![Discord Server](https://img.shields.io/discord/857622993702486067?color=blue&label=Discord%20Server&logo=discord&style=flat-square)](https://discord.gg/NDfK6NPZVZ)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue.svg?style=flat-square&logo=github)](https://github.com/XSaitoKungX)
 [![Documentation](https://img.shields.io/badge/Documentation-Coming%20Soon..-orange.svg?style=flat-square)](https://example.com/docs)
 [![Dashboard](https://img.shields.io/badge/Dashboard-Coming%20Soon..-green.svg?style=flat-square)](https://example.com/dashboard)
+</p>
 
 ## Willkommen 👋
 
