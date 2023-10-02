@@ -4,7 +4,7 @@
   <br>
   <a href="https://github.com/XSaitoKungX"><img src="/Images/Akana.jpg" height="500" alt="Akane Discord Bot"></a>
   <br>
-  Ein multifunktionaler Discord-Bot, entwickelt mit ❤ von [XSaitoKungX](https://github.com/XSaitoKungX)
+  Ein multifunktionaler Discord-Bot, entwickelt mit ❤ von <a href="https://github.com/XSaitoKungX">XSaitoKungX</a>
   <br>
 </p>
 
