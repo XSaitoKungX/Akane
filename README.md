@@ -100,7 +100,7 @@ Follow these steps to install Akane on your server:
 ![Package Private](https://repobeats.axiom.co/api/embed/942b1cc2f77ede96220b334dac8b6535c1196ecf.svg 'Repobeats analytics image')
 
 ## 🤖 Bot Configuration
-```yml
+```yaml
 🔐 config.yml:
 - Fill in the `token` and `guild` fields with your Discord Developer Portal information.
 - Customize general settings such as bot name (`name`), prefix (`prefix`), and currency symbol (`currency_symbol`).
